@@ -7,8 +7,8 @@ A cute cat and dog are playing on the couch in front of the TV, high quality, ph
 Ultra close-up photo of the face of fuzzy owl semi Panther with a rainbow Classic Rose color. Portrait photography, photorealism. a lot of details by Alex Shonenkov
 fuzzy owl semi Panther with a rainbow Classic Rose color. Portrait photography, photorealism
 
+https://civitai.com/models/4384/dreamshaper
 8k portrait of beautiful cyborg with brown hair, intricate, elegant, highly detailed, majestic, digital photography, art by artgerm and ruan jia and greg rutkowski surreal painting gold butterfly filigree, broken glass, (masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), hdr
-Negative prompt
 BadDream, FastNegativeV2
 
 https://civitai.com/models/4384/dreamshaper
