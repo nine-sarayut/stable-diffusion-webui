@@ -16,8 +16,8 @@ photo of the warrior Aragorn from Lord of the Rings, film grain
 BadDream, (UnrealisticDream:1.2)
 
 https://civitai.com/models/4201/realistic-vision-v50
-photo of the warrior Aragorn from Lord of the Rings, film grain
-BadDream, (UnrealisticDream:1.2)
+high quality, face portrait photo of 26 y.o european woman, wearing black dress, serious face, detailed face, skin pores, cinematic shot, dramatic lighting
+(deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime), text, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, BadDream, UnrealisticDream
 
 https://civitai.com/models/18798/meinaunreal?modelVersionId=112809
 realistic, 1girl, white hair, purple eyes, glowing eyes, crop top, skirt, parted lips, blush, night, flowers, sun, sunlight,
