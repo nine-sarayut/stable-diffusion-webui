@@ -1,6 +1,8 @@
 ./webui.sh
 civitai.com
 
+https://civitai.com/models/80593?modelVersionId=85474
+
 green sapling growing out of the ground, mud, dirt, grass, high quality, photorealistic, sharp focus, depth of field
 eagle, sun, roses, hyper-detailed, ultra-sharp, octane render, 8 k, illustration, highly detailed, simple, smooth and clean vector, no jagged lines, vector art, smooth
 A cute cat and dog are playing on the couch in front of the TV, high quality, photorealistic, sharp focus
