@@ -1,5 +1,6 @@
 ./webui.sh
 civitai.com
+https://www.tomshardware.com/news/stable-diffusion-gpu-benchmarks
 
 https://civitai.com/models/80593?modelVersionId=85474
 
